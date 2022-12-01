@@ -62,3 +62,22 @@ body {
     width: 153px;
     height: 43px;
 }
+
+.img-s {
+    width: 66px;
+    height: 85px;
+}
+
+.box {
+    width: 270px;
+    height: 270px;
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+
+.custom-box {
+
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
