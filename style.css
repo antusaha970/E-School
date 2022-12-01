@@ -153,3 +153,34 @@ body {
 .testi-text {
     width: 580px;
 }
+
+#footer {
+    height: 369px;
+    background: #282531;
+    margin-top: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.footer-text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+#footer ul a li{
+    list-style: none;
+    color: white;
+    text-decoration: none;
+}
+#footer a:first-child{
+    font-weight: bold;
+}
+#footer ul a {
+    text-decoration: none;
+}
