@@ -81,3 +81,50 @@ body {
     box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
+
+#courses {
+    margin-top: 80px;
+}
+
+#courses h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    color: #413960;
+    text-align: center;
+}
+
+.course-btn {
+    padding: 8px 20px;
+
+    width: 137px;
+    height: 35px;
+
+    background: #21B573;
+    border-radius: 33px;
+}
+
+.card {
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    border: none;
+}
+
+.card-footer {
+    border-top: none;
+}
+
+.card-img-size {
+    width: 24px;
+    height: 24px;
+}
+.card-footer p{
+    margin-bottom: 0!important;
+}
+.card-footer{
+    background: white;
+    margin-top: 20px;
+}
