@@ -210,3 +210,13 @@ body {
         margin-bottom: 10px;
     }
 }
+
+.img-animation{
+    position: relative;
+    animation: movement 2s ease-in-out  infinite alternate-reverse;
+}
+@keyframes movement {
+    50%{
+        transform: scale(1.05);
+    }
+}
